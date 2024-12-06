@@ -163,7 +163,7 @@ class Gstreamer < Formula
       -Dpython.purelibdir=#{site_packages}
       -Dpython=enabled
       -Dlibav=enabled
-      -Dlibnice=disabled
+      -Dlibnice=enabled
       -Dbase=enabled
       -Dgood=enabled
       -Dugly=enabled
